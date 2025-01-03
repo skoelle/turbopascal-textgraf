@@ -21,3 +21,9 @@ case InitTextGraf of
 end;
 GrafikMode($13);
 ```
+
+## Methods
+
+- InitTextGraf              Init TextGraf Lib
+- GrafikMode(int);          Sets Graphics Mode
+- setvgacolors(p);          Sets VGA Colors
